@@ -1,1 +1,1 @@
-# template-century21_example-static_web_scraping
+# template-web_scraping-century21
